@@ -1,0 +1,6 @@
+软件系统中，交互关系预测任务
+link_pred_Transformer.py 文件为Graph Transformer模型下的交互关系预测
+GCN_link_pred.py 为GCN模型下的交互关系预测
+link_pred_node2vec.py 软件网络局部特征
+dataset 为三个版本数据集
+data_handle.py 处理数据
